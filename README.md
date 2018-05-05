@@ -9,7 +9,7 @@ Dark theme based on the Monokai Theme with the following changes:
 
 ![](https://raw.githubusercontent.com/keatsdothu/summer_nights_vscode_theme/master/summer_nights_v1_screenie.png).
 
-## More Information
+## Links
 
-* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items/keatsdothu.Theme-Summer-Nights).
-* [GitHub repository](https://github.com/keatsdothu/summer_nights_vscode_theme).
+* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=keatsdothu.summer-nights)
+* [GitHub repository](https://github.com/keatsdothu/summer_nights_vscode_theme)
