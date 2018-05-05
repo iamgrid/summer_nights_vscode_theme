@@ -1,22 +1,21 @@
 {
-    "name": "summer-nights",
-    "displayName": "Summer Nights",
-    "description": "Dark theme based on Monokai, replacing the weird purples with nice shades of green and blue.",
-    "version": "0.0.1",
-    "publisher": "keatsdothu",
-    "engines": {
-        "vscode": "^1.23.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Summer Nights",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Summer Nights-color-theme.json"
-            }
-        ]
-    }
+  "name": "summer-nights",
+  "displayName": "Summer Nights",
+  "description":
+    "Dark theme based on Monokai, replacing the weird purples with nice shades of green and blue.",
+  "version": "0.0.1",
+  "publisher": "keatsdothu",
+  "engines": {
+    "vscode": "^1.23.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Summer Nights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/summer-nights-color-theme.json"
+      }
+    ]
+  }
 }
