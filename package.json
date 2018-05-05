@@ -3,11 +3,11 @@
   "displayName": "Summer Nights",
   "description":
     "Dark theme based on Monokai, replacing the weird purples with nice shades of green and blue.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "keatsdothu",
-  "repository" : { 
-    "type" : "git",
-    "url" : "https://github.com/keatsdothu/summer_nights_vscode_theme.git" 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keatsdothu/summer_nights_vscode_theme.git"
   },
   "engines": {
     "vscode": "^1.23.0"
