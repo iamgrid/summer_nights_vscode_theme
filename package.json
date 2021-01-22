@@ -2,19 +2,11 @@
 	"name": "summer-nights",
 	"displayName": "Summer Nights",
 	"description": "Dark theme based on Monokai, replacing the weird purples with nice shades of green and blue.",
-<<<<<<< HEAD
 	"version": "1.0.1",
 	"publisher": "keatsdothu",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/iamgrid/summer_nights_vscode_theme.git"
-=======
-	"version": "1.0.0",
-	"publisher": "keatsdothu",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/keatsdothu/summer_nights_vscode_theme.git"
->>>>>>> b12e428648dc0537e0c3bd4f063f29e81ed0c8cd
 	},
 	"engines": {
 		"vscode": "^1.23.0"
@@ -30,15 +22,5 @@
 				"path": "./themes/summer-nights-color-theme.json"
 			}
 		]
-<<<<<<< HEAD
 	}
 }
-=======
-	},
-	"__metadata": {
-		"id": "d159759e-4793-4392-9b2f-4acebdf2616f",
-		"publisherDisplayName": "Andrew Pataki",
-		"publisherId": "17f590c7-6325-4a6b-95a1-c845e4c84814"
-	}
-}
->>>>>>> b12e428648dc0537e0c3bd4f063f29e81ed0c8cd
