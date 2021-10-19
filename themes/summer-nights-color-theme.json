@@ -6,7 +6,7 @@
     "menu.foreground": "#c0c0c0",
     "menu.separatorBackground": "#707070",
     "focusBorder": "#6e6e6e",
-    "selection.background": "#ccccc7",
+    "selection.background": "#465869",
     "widget.shadow": "#000000",
     "input.background": "#111111",
     "inputOption.activeBorder": "#606060",
@@ -121,7 +121,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#606060"
+        "foreground": "#707070"
       }
     },
     {
